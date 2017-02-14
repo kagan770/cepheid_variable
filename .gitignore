@@ -28,3 +28,12 @@ src/resutls_left.txt
 src/resutls_search.txt
 src/resutls_soft_sort.txt
 src/test.txt
+src/output_browse.txt
+src/output_facet_browse.txt
+src/output_facet_search.txt
+src/output_hard_sort.txt
+src/output_left.txt
+src/output_search.txt
+src/output_seventh_row.txt
+src/output_soft_sort.txt
+src/output_third_row.txt
